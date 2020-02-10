@@ -1,0 +1,31 @@
+
+.nav-img{
+  width: 100px;
+  height: 50px;
+}
+.navbar-default {
+  background-color: rgb(42, 69, 85);
+  border-color: rgb(42, 69, 85);
+}
+.navbar-default .navbar-nav > li > a {
+  color: white;
+}  
+.nav_links:hover{
+  color: white;
+  background-color: rgb(209, 20, 87);
+}
+.jumbotron > p{
+  font-size: 70px;
+  font-weight: 800;
+  color: rgb(42, 69, 85);
+  font-family: 'Courier New', Courier, monospace;
+}
+footer{
+  background-color: rgb(42, 69, 85);
+  color: white;
+}
+
+#login_form{
+  margin-top: 150px;
+}
+
